@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 872b318dc0fc1c247bd21f7bd26640a8, type: 3}
+  m_Name: SessionInfo
+  m_EditorClassIdentifier: 
+  LevelInfo: {fileID: 11400000, guid: 93dc20314b9584b4797063f4c69a97fc, type: 2}
+  PlayTime: 30.001854
+  DieTime: 30
+  Score: 20
+  WinScore: 30
+  Bonuses:
+  - {fileID: 11400000, guid: 460cda194edc3b146925cf277c14444f, type: 2}
